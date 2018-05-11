@@ -1,0 +1,40 @@
+@import url(http://weloveiconfonts.com/api/?family=zocial);
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
+
+
+body{
+	background-color: #204154;
+}	
+
+.jumbotron{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+.hii{
+	font-family: 'Berkshire Swash', cursive;
+}
+
+.me{
+	width: 50%;
+}
+
+.row{
+	margin-bottom: 1em;
+}
+
+.card{
+	background-color: white;
+	opacity: .9;
+	/*transition: transform 1s;*/
+}	
+/*
+.card:hover{
+	transform: rotateY(180deg);
+}
+*/
